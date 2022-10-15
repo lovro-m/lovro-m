@@ -7,6 +7,8 @@
 <h3 align="left">About me:</h3>
 <p align="left">
   
+  - Graduated at the Faculty of Electrical Engineering and Computing, Zagreb
+  
   - I’m currently working on **Dota 2 Custom Games**
 
   - I’m currently learning **Professional C++, 4th Edition**
