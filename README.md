@@ -19,7 +19,7 @@
 
 <h3 align="left">You can find me at:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lovro-maga%c5%a1-a378a515b/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="https://www.linkedin.com/in/lovro-maga%c5%a1-a378a515b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lovro-maga%C5%A1-a378a515b/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
