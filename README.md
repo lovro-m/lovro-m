@@ -1,4 +1,3 @@
-![MasterHead](https://thumbs.gfycat.com/AfraidBrilliantAtlanticsharpnosepuffer-size_restricted.gif)
 <h1 align="left">Hi, I'm Lovro Magaš</h1>
 <h3 align="left">Automation and Robotics Engineer, Videogame Developer</h3>
 
