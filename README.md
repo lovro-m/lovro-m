@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Lovro Magaš</h1>
 <h3 align="center">Automation and Robotics Engineer, Videogame Developer</h3>
 
-- 🔭 I’m currently working on **Dota 2 Custom Games**
+- I’m currently working on **Dota 2 Custom Games**
 
-- 🌱 I’m currently learning **Professional C++, 4th Edition**
+- I’m currently learning **Professional C++, 4th Edition**
 
-- 📫 How to reach me **lovro.magas@gmail.com**
+- How to reach me **lovro.magas@gmail.com**
 
 <h3 align="left">You can find me at:</h3>
 <p align="left">
