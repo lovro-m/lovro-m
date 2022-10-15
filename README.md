@@ -2,6 +2,8 @@
 <h1 align="left">Hi, I'm Lovro Magaš</h1>
 <h3 align="left">Automation and Robotics Engineer, Videogame Developer</h3>
 
+<img align="right" alt="Shaker" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d61b673a-e4ef-4bc5-aaa7-aa27bc19c243/d7btxqm-6fddf03a-ae53-4e81-bbd3-1b2b11439745.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2MWI2NzNhLWU0ZWYtNGJjNS1hYWE3LWFhMjdiYzE5YzI0M1wvZDdidHhxbS02ZmRkZjAzYS1hZTUzLTRlODEtYmJkMy0xYjJiMTE0Mzk3NDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iDmB79zLm5x7VOb5O4gkiiW_cueIlyU9FY0gLlm9u9I">
+
 <h3 align="left">About me:</h3>
 <p align="left">
   
@@ -11,8 +13,6 @@
 
   - How to reach me **lovro.magas@gmail.com**
 </p>
-
-<img align="right" alt="Shaker" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d61b673a-e4ef-4bc5-aaa7-aa27bc19c243/d7btxqm-6fddf03a-ae53-4e81-bbd3-1b2b11439745.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2MWI2NzNhLWU0ZWYtNGJjNS1hYWE3LWFhMjdiYzE5YzI0M1wvZDdidHhxbS02ZmRkZjAzYS1hZTUzLTRlODEtYmJkMy0xYjJiMTE0Mzk3NDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iDmB79zLm5x7VOb5O4gkiiW_cueIlyU9FY0gLlm9u9I">
 
 <h3 align="left">You can find me at:</h3>
 <p align="left">
