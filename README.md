@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Lovro Magaš</h1>
-<h3 align="center">Automation and Robotics Engineer, Videogame Developer</h3>
+<![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)>
+<h1 align="left">Hi, I'm Lovro Magaš</h1>
+<h3 align="left">Automation and Robotics Engineer, Videogame Developer</h3>
 
 <h3 align="left">About me:</h3>
 <p align="left">
