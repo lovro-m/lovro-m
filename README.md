@@ -10,7 +10,7 @@
   
   - Graduated at the Faculty of Electrical Engineering and Computing, Zagreb
   
-  - I’m currently working on **Dota 2 Custom Games**
+  - I’m currently working on **Dota 2 Custom Games** with Spirit Bear Productions
 
   - I’m currently learning **Professional C++, 4th Edition**
 
