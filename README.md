@@ -20,6 +20,7 @@
 <h3 align="left">You can find me at:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lovro-maga%C5%A1-a378a515b/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/daser27/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/LeetCode_Logo.png" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
