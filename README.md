@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Lovro Magaš</h1>
-<h3 align="left">Automation and Robotics Engineer, Videogame Developer</h3>
+<h3 align="left">R&D Engineer, Videogame Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovro-m&label=Profile%20views&color=0e75b6&style=flat" alt="lovro-m" /> </p>
 
