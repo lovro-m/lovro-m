@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovro-m&label=Profile%20views&color=0e75b6&style=flat" alt="lovro-m" /> </p>
 
-<img align="right" alt="Shaker" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d61b673a-e4ef-4bc5-aaa7-aa27bc19c243/d7btxqm-6fddf03a-ae53-4e81-bbd3-1b2b11439745.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2MWI2NzNhLWU0ZWYtNGJjNS1hYWE3LWFhMjdiYzE5YzI0M1wvZDdidHhxbS02ZmRkZjAzYS1hZTUzLTRlODEtYmJkMy0xYjJiMTE0Mzk3NDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iDmB79zLm5x7VOb5O4gkiiW_cueIlyU9FY0gLlm9u9I">
-
 <h3 align="left">About me:</h3>
 <p align="left">
   
