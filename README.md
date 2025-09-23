@@ -10,7 +10,7 @@
   
   - I’m currently working on **Dota 2 Custom Games** with Spirit Bear Productions
 
-  - I’m currently learning **Advanced Programming and Algorithms in C and C++ 1 Edition**
+  - I’m currently learning **Advanced Programming and Algorithms in C and C++ 1st Edition**
 
   - How to reach me **lovro.magas@gmail.com**
 </p>
