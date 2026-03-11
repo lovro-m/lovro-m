@@ -25,6 +25,9 @@
       - Shadow Fiend Wars -> Dota2 Hero Arena <a href="https://steamcommunity.com/sharedfiles/filedetails?id=2254706523" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/nevermore_discord.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
+  - **Robotics**:
+      - RRBot simulation, a simple two revolute joint robot implementation for object pickup
+
 <h3 align="left">You can find me at:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lovro-maga%C5%A1-a378a515b/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="40" width="40" /></a>
