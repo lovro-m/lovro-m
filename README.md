@@ -6,7 +6,9 @@
 <h3 align="left">About me:</h3>
 <p align="left">
   
-  - Graduated at the Faculty of Electrical Engineering and Computing, Zagreb
+  - Graduated at the Faculty of Electrical Engineering and Computing, Zagreb:
+      - MSc in Control Theory, Automation and Robotics
+      - BSc in Electrical Eng. and Info. Tech.
   
   - I’m currently working on **Dota 2 Custom Games** with Spirit Bear Productions
 
@@ -19,19 +21,14 @@
 <p align="left">
   
   - **Dota 2 Custom Games**:
-      - Hold The Line -> Classic Hero Defense ()
-      - Shadow Fiend Wars -> Dota2 Hero Arena ()
-
-  <p align="left">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails?id=2254706523" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="50" width="50" /></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3633003690" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/LeetCode_Logo.png" alt="linkedin" height="50" width="50" /></a>
-  </p>
+      - Hold The Line -> Classic Hero Defense <a href="https://steamcommunity.com/sharedfiles/filedetails?id=2254706523" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/holdtheline_discord1.png" alt="linkedin" height="50" width="50" /></a>
+      - Shadow Fiend Wars -> Dota2 Hero Arena <a href="https://steamcommunity.com/sharedfiles/filedetails?id=2254706523" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/nevermore_discord.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">You can find me at:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lovro-maga%C5%A1-a378a515b/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/daser27/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/LeetCode_Logo.png" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lovro-maga%C5%A1-a378a515b/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://leetcode.com/daser27/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/LeetCode_Logo.png" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
