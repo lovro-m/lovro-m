@@ -15,6 +15,19 @@
   - How to reach me **lovro.magas@gmail.com**
 </p>
 
+<h3 align="left">Solo Projects:</h3>
+<p align="left">
+  
+  - **Dota 2 Custom Games**:
+      - Hold The Line -> Classic Hero Defense ()
+      - Shadow Fiend Wars -> Dota2 Hero Arena ()
+
+  <p align="left">
+    <a href="https://steamcommunity.com/sharedfiles/filedetails?id=2254706523" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="50" width="50" /></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3633003690" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/LeetCode_Logo.png" alt="linkedin" height="50" width="50" /></a>
+  </p>
+</p>
+
 <h3 align="left">You can find me at:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lovro-maga%C5%A1-a378a515b/" target="blank"><img align="center" src="https://github.com/lovro-m/lovro-m/blob/main/linkedin-svgrepo-com.svg" alt="linkedin" height="30" width="40" /></a>
